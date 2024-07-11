@@ -80,7 +80,7 @@ section {
 }
 @keyframes appear {
   0% {
-    transform: translateX(-100%) scaleX(0);
+    transform: translateX(-100%) scaleX(1);
   }
   100% {
     transform: translateX(0) scaleX(1);
